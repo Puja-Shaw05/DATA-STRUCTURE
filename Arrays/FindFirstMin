@@ -1,4 +1,4 @@
-public class FindMinimum {
+public class FindFirstMin {
 
 	//WAP to find 1st minimum element
 	public static int findFirstMin(int [] ar) {
